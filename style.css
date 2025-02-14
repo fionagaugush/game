@@ -1,0 +1,58 @@
+body{
+    background-color: pink;
+    margin:0;
+    padding: 0;
+    text-align: center;
+}
+.press-start-2p-regular {
+    font-family: "Press Start 2P", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+#message{
+    text-align: center;
+  }
+  #yes_button{
+    
+    text-align: center;
+    font-family: "Press Start 2P", serif;
+    background-color:white;
+
+  }
+
+  
+
+
+
+
+
+#heart {
+  position: relative;
+    left: 100;
+    top: 0;
+    width: 100px;
+    height: 100px;
+}
+
+#myheart {
+  position: relative;
+    right: 100;
+    top: 0;
+  
+    width: 100px;
+    height: 100px;
+}
+
+ 
+  
+  
+  .big-heart{
+    width:500px;
+    -webkit-filter : hue-rotate(180deg);
+    filter : hue-rotate(180deg);
+    position:absolute;
+    top:0;
+    left:0;
+  }
+  
+  
